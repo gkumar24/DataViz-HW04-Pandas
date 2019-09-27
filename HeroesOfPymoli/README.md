@@ -3,32 +3,33 @@
 ## Assignment Scope
 
 * Analyzing the purchase data for the fantasy game Heroes of Pymoli.
+* Complete the report with the, Total number of Players, Total Analysis, Demography based on Gender and Age, Purchasing data based on Gender and Age, Top Spender, Most popular Item and the most profitable item. 
 
-### Total Number of Players
+### 1. Total Number of Players
 ![Total Player Count](Output/PlayerCount.png)
 
-### Purchasing Analysis (Total)
+### 2. Purchasing Analysis (Total)
 ![Purchasing Analysis (Total)](Output/PurchasingAnalysis.png)
 
-### Gender Demographics
+### 3. Gender Demographics
 ![Gender Demography](Output/GenderDemography.png)
 
-### Purchasing Analysis (Gender)
+### 4. Purchasing Analysis (Gender)
 ![Purchasing Analysis (Gender)](Output/PurchaseAnalysis_byGender.png)
 
-### Age Demographics
+### 5. Age Demographics
 ![Age Demography](Output/AgeDemography.png)
 
-### Purchasing Analysis (Age Group)
+### 6. Purchasing Analysis (Age Group)
 ![Purchasing Analysis (Age Group)](Output/PurchaseAnalysis_byAgeGroup.png)
 
-### Top Spenders
+### 7. Top Spenders
 ![Top Spender](Output/Top_Spenders.png)
 
-### Most Popular Items
+### 8. Most Popular Items
 ![Most Popular Item](Output/MostPopularItem.png)
 
-### Most Profitable Items
+### 9. Most Profitable Items
 ![Most Profitable Item](Output/MostProfitableItem.png)
 
 
@@ -36,7 +37,7 @@
 Based on the data Analysis, below are the observation / findings. 
 * There are more Male players, considering 84 % of total players identified as Male. 
 * Irrespective of the gender each player, on an average, spend between $4 to $4.5.
-* Most Players are in the age group of 20 to 25 years.
+* Most Players are in the age group of 20 to 24 years.
 * The most Popular and the most Profitable item is "Oathbreaker, Last Hope of the Breaking Storm", with "Nirvana" coming in the second Place. 
 
 ### Thank you 
