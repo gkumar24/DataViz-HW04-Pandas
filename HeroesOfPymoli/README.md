@@ -6,7 +6,7 @@
 * Complete the report with the, Total number of Players, Total Analysis, Demography based on Gender and Age, Purchasing data based on Gender and Age, Top Spender, Most popular Item and the most profitable item. 
 
 ## Complete Panda Code
-* [Panda Code for Heros of Pymoli data analysis](https://github.com/gkumar24/DataViz-HW04-Pandas/blob/master/HeroesOfPymoli/HeroesOfPymoli.ipynb)
+* [Panda Code for Heros of Pymoli data analysis](https://github.com/gkumar24/DataViz-HW04-Pandas/blob/master/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb)
 
 ### 1. Total Number of Players
 ![Total Player Count](Output/PlayerCount.png)
