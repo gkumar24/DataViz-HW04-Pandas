@@ -8,25 +8,25 @@
 ![Total Player Count](Output/PlayerCount.png)
 
 ### Purchasing Analysis (Total)
-![Total Player Count](Output/PurchasingAnalysis.png)
+![Purchasing Analysis (Total)](Output/PurchasingAnalysis.png)
 
 ### Gender Demographics
-![Total Player Count](Output/GenderDemography.png)
+![Gender Demography](Output/GenderDemography.png)
 
 ### Purchasing Analysis (Gender)
-![Total Player Count](Output/PurchaseAnalysis_byGender.png)
+![Purchasing Analysis (Gender)](Output/PurchaseAnalysis_byGender.png)
 
 ### Age Demographics
-![Total Player Count](Output/AgeDemography.png)
+![Age Demography](Output/AgeDemography.png)
 
 ### Purchasing Analysis (Age Group)
-![Total Player Count](Output/PurchaseAnalysis_byAgeGroup.png)
+![Purchasing Analysis (Age Group)](Output/PurchaseAnalysis_byAgeGroup.png)
 
 ### Top Spenders
-![Total Player Count](Output/Top_Spenders.png)
+![Top Spender](Output/Top_Spenders.png)
 
 ### Most Popular Items
-![Total Player Count](Output/MostPopularItem.png)
+![Most Popular Item](Output/MostPopularItem.png)
 
 ### Most Profitable Items
-![Total Player Count](Output/MostProfitableItem.png)
+![Most Profitable Item](Output/MostProfitableItem.png)
